@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/romania/static/css/main.947b9484.chunk.css",
+    "main.js": "/romania/static/js/main.904c6190.chunk.js",
+    "main.js.map": "/romania/static/js/main.904c6190.chunk.js.map",
+    "runtime-main.js": "/romania/static/js/runtime-main.f91f938f.js",
+    "runtime-main.js.map": "/romania/static/js/runtime-main.f91f938f.js.map",
+    "static/css/2.1ba447cc.chunk.css": "/romania/static/css/2.1ba447cc.chunk.css",
+    "static/js/2.bb7483cd.chunk.js": "/romania/static/js/2.bb7483cd.chunk.js",
+    "static/js/2.bb7483cd.chunk.js.map": "/romania/static/js/2.bb7483cd.chunk.js.map",
+    "index.html": "/romania/index.html",
+    "precache-manifest.26ba2576d7db3a9f9ec8b5c3056f7355.js": "/romania/precache-manifest.26ba2576d7db3a9f9ec8b5c3056f7355.js",
+    "service-worker.js": "/romania/service-worker.js",
+    "static/css/2.1ba447cc.chunk.css.map": "/romania/static/css/2.1ba447cc.chunk.css.map",
+    "static/css/main.947b9484.chunk.css.map": "/romania/static/css/main.947b9484.chunk.css.map",
+    "static/js/2.bb7483cd.chunk.js.LICENSE.txt": "/romania/static/js/2.bb7483cd.chunk.js.LICENSE.txt",
+    "static/media/0be9b123-d00bc462.mp4": "/romania/static/media/0be9b123-d00bc462.f13e0403.mp4",
+    "static/media/Citadel-Rasnov-Romania.jpg": "/romania/static/media/Citadel-Rasnov-Romania.ace703da.jpg",
+    "static/media/balea-lake.jpg": "/romania/static/media/balea-lake.7025a360.jpg",
+    "static/media/bigar-waterfall.jpg": "/romania/static/media/bigar-waterfall.4f470249.jpg",
+    "static/media/bran-castle.jpeg": "/romania/static/media/bran-castle.37fa47ec.jpeg",
+    "static/media/peles-castle.jpg": "/romania/static/media/peles-castle.91bcb469.jpg",
+    "static/media/poenari-castle.jpg": "/romania/static/media/poenari-castle.0b9269b0.jpg",
+    "static/media/romania1.jpg": "/romania/static/media/romania1.594eda13.jpg",
+    "static/media/romania2.jpg": "/romania/static/media/romania2.2253011c.jpg",
+    "static/media/romania3.jpg": "/romania/static/media/romania3.82bacadf.jpg",
+    "static/media/romania_karta.gif": "/romania/static/media/romania_karta.0959bd51.gif",
+    "static/media/sibiu.jpg": "/romania/static/media/sibiu.58d20fb7.jpg",
+    "static/media/sighisoara.jpg": "/romania/static/media/sighisoara.07d52c6f.jpg",
+    "static/media/timisoara.jpg": "/romania/static/media/timisoara.a263abfb.jpg",
+    "static/media/transfagarasan-highway.jpg": "/romania/static/media/transfagarasan-highway.faea54b4.jpg",
+    "static/media/uni-logo.jpg": "/romania/static/media/uni-logo.e5536f78.jpg",
+    "static/media/voronet-monastery.jpg": "/romania/static/media/voronet-monastery.48dca0bf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f91f938f.js",
+    "static/css/2.1ba447cc.chunk.css",
+    "static/js/2.bb7483cd.chunk.js",
+    "static/css/main.947b9484.chunk.css",
+    "static/js/main.904c6190.chunk.js"
+  ]
+}
